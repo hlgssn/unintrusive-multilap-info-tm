@@ -1,0 +1,9 @@
+[meta]
+name     = "Unintrusive Multilap Info"
+author   = "TigerHelos"
+category = "Testing"
+version  = "0.0.1"
+
+[script]
+#__DEFINES__
+dependencies = ["MLHook", "MLFeedRaceData"]
